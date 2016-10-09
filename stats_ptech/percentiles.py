@@ -1,5 +1,3 @@
-
-
 """
 Thanks Josh Hemann for the example
 """
